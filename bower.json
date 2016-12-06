@@ -1,0 +1,21 @@
+{
+  "name": "react",
+  "authors": [
+    "gaspar1986 <491028246@qq.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "react": "^15.4.1",
+    "babel": "^5.8.38"
+  }
+}
